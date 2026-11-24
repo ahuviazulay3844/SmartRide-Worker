@@ -4,13 +4,6 @@
   <b>שירות רקע שרץ כשירות Windows, וכל 60 שניות מנהל את מחזור החיים של כל ההזמנות במערכת, בלי שאף אחד ילחץ על כפתור.</b>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/.NET-9-512BD4?logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/BackgroundService-Hosted-512BD4">
-  <img src="https://img.shields.io/badge/Windows_Service-0078D6?logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/EF_Core-SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white">
-</p>
-
 <h3 align="center">🎬 סרטון הדגמה (2:34, עם קריינות)</h3>
 
 https://github.com/user-attachments/assets/ef0d1e1b-c8a2-41bc-8382-23eefb83d530
