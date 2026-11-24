@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityCar.Worker", "CityCar.Worker\CityCar.Worker.csproj", "{FF9524EC-FF68-4EF3-92EE-77AF00B8C0A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "..\SmartRide-Backend\Service\Service.csproj", "{B8DBE000-7FB3-6206-C8CA-DF2336EB8879}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF9524EC-FF68-4EF3-92EE-77AF00B8C0A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF9524EC-FF68-4EF3-92EE-77AF00B8C0A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF9524EC-FF68-4EF3-92EE-77AF00B8C0A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF9524EC-FF68-4EF3-92EE-77AF00B8C0A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8DBE000-7FB3-6206-C8CA-DF2336EB8879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8DBE000-7FB3-6206-C8CA-DF2336EB8879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8DBE000-7FB3-6206-C8CA-DF2336EB8879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8DBE000-7FB3-6206-C8CA-DF2336EB8879}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02D01FA7-0CEB-403E-99D2-D3CC2E0132B4}
+	EndGlobalSection
+EndGlobal
